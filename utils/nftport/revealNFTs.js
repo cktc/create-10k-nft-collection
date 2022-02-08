@@ -3,7 +3,7 @@ const path = require("path");
 const basePath = process.cwd();
 const fs = require("fs");
 
-const AUTH = 'YOUR API KEY HERE';
+const AUTH = '6624bc85-c315-42a6-80ec-2664d2932c29';
 const CONTRACT_ADDRESS = 'YOUR CONTRACT ADDRESS HERE';
 const ACCOUNT_ADDRESS = 'METAMASK ACCOUNT THAT MINTED NFTs';
 const CHAIN = 'rinkeby'; // Test: rinkeby, Real: polygon

@@ -4,7 +4,7 @@ const basePath = process.cwd();
 const fs = require("fs");
 const readDir = `${basePath}/build/json`; // change this directory if you are uploading generic images first in order to do a reveal.
 
-const AUTH = 'YOUR API KEY HERE';
+const AUTH = '6624bc85-c315-42a6-80ec-2664d2932c29';
 const TIMEOUT = 1000; // Milliseconds. Extend this if needed to wait for each upload. 1000 = 1 second.
 
 const allMetadata = [];
