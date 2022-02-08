@@ -1,0 +1,11 @@
+{
+  "name": "My Generic Title #2",
+  "description": "My Generic Description",
+  "file_url": "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh",
+  "custom_fields": {
+    "edition": 2,
+    "date": 1644324768382,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://codecats.xyz"
+}

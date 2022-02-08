@@ -3,8 +3,8 @@ const basePath = process.cwd();
 const fs = require("fs");
 const buildDir = path.join(basePath, "/build");
 
-const GENERIC_TITLE = "Unknown" // Replace with what you want the generic titles to say.
-const GENERIC_DESCRIPTION = "Unknown" // Replace with what you want the generic descriptions to say.
+const GENERIC_TITLE = "My Generic Title" // Replace with what you want the generic titles to say.
+const GENERIC_DESCRIPTION = "My Generic Description" // Replace with what you want the generic descriptions to say.
 
 if (!fs.existsSync(path.join(buildDir, "/genericJson"))) {
   fs.mkdirSync(path.join(buildDir, "/genericJson"));
