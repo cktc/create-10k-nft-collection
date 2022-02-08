@@ -1,0 +1,42 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "file_url": "ipfs://NewUriToReplace/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "custom_fields": {
+    "dna": "bb7e3355c593a4562c4035746e64ea55084a5581",
+    "edition": 1,
+    "date": 1644324768249,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://codecats.xyz"
+}
